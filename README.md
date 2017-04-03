@@ -1,2 +1,2 @@
 # BigSky
-BigSkyEarth_traning_school_2017
+Material and notes from the BigSkyEarth traning school 2017
